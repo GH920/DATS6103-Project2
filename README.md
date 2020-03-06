@@ -12,13 +12,12 @@ In this project, I used several packages (including <a href="https://plot.ly">pl
 
 ## Visualization Preview
 <h4>Pie Chart</h4>
-<img src="pie.png"></img>
+<img src="imgs/pie.png"></img>
 <h4>Bar Chart</h4>
-<img src="bar.png"></img>
+<img src="imgs/bar.png"></img>
 <h4>Column Chart</h4>
-<img src="col.png"></img>
+<img src="imgs/col.png"></img>
 <h4>Choropleth Maps</h4>
-<img src="chor.png"></img>
+<img src="imgs/chor.png"></img>
 <h4>Linked Maps</h4>
-<img src="link.png"></img>
-
+<img src="imgs/link.png"></img>
